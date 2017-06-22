@@ -1,0 +1,22 @@
+7 2 7 2 0 
+count0 = 0  count1 = 7  count2 = 9  count3 = 7  count4 = 18  count5 = 0  
+update	4	6
+count0 = 0  count1 = 7  count2 = 9  count3 = 7  count4 = 18  count5 = 6  
+update	0	2
+count0 = 0  count1 = 2  count2 = 4  count3 = 7  count4 = 13  count5 = 6  
+update	0	9
+count0 = 0  count1 = 9  count2 = 11  count3 = 7  count4 = 20  count5 = 6  
+sumRange	4	4
+ans = 6
+update	3	8
+count0 = 0  count1 = 9  count2 = 11  count3 = 7  count4 = 26  count5 = 6  
+sumRange	0	4
+ans = 32
+update	4	1
+count0 = 0  count1 = 9  count2 = 11  count3 = 7  count4 = 26  count5 = 1  
+sumRange	0	3
+ans = 26
+sumRange	0	4
+ans = 27
+update	0	4
+count0 = 0  count1 = 4  count2 = 6  count3 = 7  count4 = 21  count5 = 1  

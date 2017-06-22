@@ -1,0 +1,12 @@
+5
+7 2 7 2 0
+update 4 6
+update 0 2
+update 0 9
+sumRange 4 4
+update 3 8
+sumRange 0 4
+update 4 1
+sumRange 0 3
+sumRange 0 4
+update 0 4
